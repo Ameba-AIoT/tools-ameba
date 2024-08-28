@@ -1,0 +1,131 @@
+[Tue Sep 20 16:23:36.460594 2022] [mpm_winnt:notice] [pid 7968:tid 472] AH00455: Apache/2.4.54 (Win64) configured -- resuming normal operations
+[Tue Sep 20 16:23:36.461590 2022] [mpm_winnt:notice] [pid 7968:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Tue Sep 20 16:23:36.461590 2022] [core:notice] [pid 7968:tid 472] AH00094: Command line: 'D:\\Project\\Tools\\audio_test_tool_master\\RtkAudioTestTool\\bin\\Debug\\Apache24\\bin\\httpd.exe -d D:/Project/Tools/audio_test_tool_master/RtkAudioTestTool/bin/Debug/Apache24'
+[Tue Sep 20 16:23:36.465580 2022] [mpm_winnt:notice] [pid 7968:tid 472] AH00418: Parent: Created child process 24368
+[Tue Sep 20 16:23:37.160722 2022] [mpm_winnt:notice] [pid 24368:tid 472] AH00354: Child: Starting 64 worker threads.
+[Tue Sep 20 16:24:11.880158 2022] [mpm_winnt:notice] [pid 7968:tid 472] AH00428: Parent: child process 24368 exited with status 3221225786 -- Restarting.
+Apache server interrupted...
+[Tue Sep 20 16:24:11.920052 2022] [mpm_winnt:notice] [pid 7968:tid 472] AH00455: Apache/2.4.54 (Win64) configured -- resuming normal operations
+[Tue Sep 20 16:24:11.920052 2022] [mpm_winnt:notice] [pid 7968:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Tue Sep 20 16:24:11.920052 2022] [core:notice] [pid 7968:tid 472] AH00094: Command line: 'D:\\Project\\Tools\\audio_test_tool_master\\RtkAudioTestTool\\bin\\Debug\\Apache24\\bin\\httpd.exe -d D:/Project/Tools/audio_test_tool_master/RtkAudioTestTool/bin/Debug/Apache24'
+[Tue Sep 20 16:24:11.924041 2022] [mpm_winnt:notice] [pid 7968:tid 472] AH00418: Parent: Created child process 4264
+[Tue Sep 20 16:24:12.436701 2022] [mpm_winnt:notice] [pid 7968:tid 472] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Sep 20 16:24:12.437670 2022] [mpm_winnt:notice] [pid 4264:tid 472] AH00354: Child: Starting 64 worker threads.
+[Tue Sep 20 16:24:14.444311 2022] [mpm_winnt:notice] [pid 4264:tid 472] AH00364: Child: All worker threads have exited.
+[Tue Sep 20 16:24:14.468247 2022] [mpm_winnt:notice] [pid 7968:tid 472] AH00430: Parent: Child process 4264 exited successfully.
+[Tue Sep 20 16:25:30.852614 2022] [mpm_winnt:notice] [pid 28680:tid 452] AH00455: Apache/2.4.54 (Win64) configured -- resuming normal operations
+[Tue Sep 20 16:25:30.853611 2022] [mpm_winnt:notice] [pid 28680:tid 452] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Tue Sep 20 16:25:30.853611 2022] [core:notice] [pid 28680:tid 452] AH00094: Command line: 'D:\\Project\\Tools\\audio_test_tool_master\\RtkAudioTestTool\\bin\\Debug\\Apache24\\bin\\httpd.exe -d D:/Project/Tools/audio_test_tool_master/RtkAudioTestTool/bin/Debug/Apache24'
+[Tue Sep 20 16:25:30.856604 2022] [mpm_winnt:notice] [pid 28680:tid 452] AH00418: Parent: Created child process 21556
+[Tue Sep 20 16:25:31.437054 2022] [mpm_winnt:notice] [pid 21556:tid 472] AH00354: Child: Starting 64 worker threads.
+[Tue Sep 20 16:25:51.774600 2022] [mpm_winnt:notice] [pid 28680:tid 452] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Sep 20 16:26:21.775483 2022] [mpm_winnt:notice] [pid 28680:tid 452] AH00431: Parent: Forcing termination of child process 21556
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 1576:tid 460] AH00455: Apache/2.4.54 (Win64) configured -- resuming normal operations
+[Tue Sep 20 16:30:04.919156 2022] [mpm_winnt:notice] [pid 1576:tid 460] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Tue Sep 20 16:30:04.919156 2022] [core:notice] [pid 1576:tid 460] AH00094: Command line: 'D:\\Project\\Tools\\audio_test_tool_master\\RtkAudioTestTool\\bin\\Debug\\Apache24\\bin\\httpd.exe -d D:/Project/Tools/audio_test_tool_master/RtkAudioTestTool/bin/Debug/Apache24'
+[Tue Sep 20 16:30:04.923145 2022] [mpm_winnt:notice] [pid 1576:tid 460] AH00418: Parent: Created child process 19300
+[Tue Sep 20 16:30:05.449739 2022] [mpm_winnt:notice] [pid 19300:tid 484] AH00354: Child: Starting 64 worker threads.
+[Tue Sep 20 16:32:25.856215 2022] [mpm_winnt:notice] [pid 1576:tid 460] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Sep 20 16:32:27.857870 2022] [mpm_winnt:notice] [pid 19300:tid 484] AH00364: Child: All worker threads have exited.
+[Tue Sep 20 16:32:27.875822 2022] [mpm_winnt:notice] [pid 1576:tid 460] AH00430: Parent: Child process 19300 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 24376:tid 452] AH00455: Apache/2.4.54 (Win64) configured -- resuming normal operations
+[Tue Sep 20 16:33:02.762652 2022] [mpm_winnt:notice] [pid 24376:tid 452] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Tue Sep 20 16:33:02.762652 2022] [core:notice] [pid 24376:tid 452] AH00094: Command line: 'D:\\Project\\Tools\\audio_test_tool_master\\RtkAudioTestTool\\bin\\Debug\\Apache24\\bin\\httpd.exe -d D:/Project/Tools/audio_test_tool_master/RtkAudioTestTool/bin/Debug/Apache24'
+[Tue Sep 20 16:33:02.774619 2022] [mpm_winnt:notice] [pid 24376:tid 452] AH00418: Parent: Created child process 7968
+[Tue Sep 20 16:33:03.308194 2022] [mpm_winnt:notice] [pid 7968:tid 468] AH00354: Child: Starting 64 worker threads.
+[Tue Sep 20 16:33:20.297820 2022] [mpm_winnt:notice] [pid 24376:tid 452] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Sep 20 16:33:22.299476 2022] [mpm_winnt:notice] [pid 7968:tid 468] AH00364: Child: All worker threads have exited.
+[Tue Sep 20 16:33:22.318423 2022] [mpm_winnt:notice] [pid 24376:tid 452] AH00430: Parent: Child process 7968 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 4164:tid 452] AH00455: Apache/2.4.54 (Win64) configured -- resuming normal operations
+[Thu Sep 22 15:07:46.536504 2022] [mpm_winnt:notice] [pid 4164:tid 452] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Thu Sep 22 15:07:46.536504 2022] [core:notice] [pid 4164:tid 452] AH00094: Command line: 'D:\\Project\\Tools\\audio_test_tool_master\\RtkAudioTestTool\\bin\\Debug\\Apache24\\bin\\httpd.exe -d D:/Project/Tools/audio_test_tool_master/RtkAudioTestTool/bin/Debug/Apache24'
+[Thu Sep 22 15:07:46.549470 2022] [mpm_winnt:notice] [pid 4164:tid 452] AH00418: Parent: Created child process 32572
+[Thu Sep 22 15:07:47.137897 2022] [mpm_winnt:notice] [pid 32572:tid 468] AH00354: Child: Starting 64 worker threads.
+[Thu Sep 22 15:15:56.707314 2022] [mpm_winnt:notice] [pid 4164:tid 452] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 22 15:15:58.708966 2022] [mpm_winnt:notice] [pid 32572:tid 468] AH00364: Child: All worker threads have exited.
+[Thu Sep 22 15:15:58.729909 2022] [mpm_winnt:notice] [pid 4164:tid 452] AH00430: Parent: Child process 32572 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 32632:tid 452] AH00455: Apache/2.4.54 (Win64) configured -- resuming normal operations
+[Thu Sep 22 15:16:40.775619 2022] [mpm_winnt:notice] [pid 32632:tid 452] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Thu Sep 22 15:16:40.775619 2022] [core:notice] [pid 32632:tid 452] AH00094: Command line: 'D:\\Project\\Tools\\audio_test_tool_master\\RtkAudioTestTool\\bin\\Debug\\Apache24\\bin\\httpd.exe -d D:/Project/Tools/audio_test_tool_master/RtkAudioTestTool/bin/Debug/Apache24'
+[Thu Sep 22 15:16:40.792573 2022] [mpm_winnt:notice] [pid 32632:tid 452] AH00418: Parent: Created child process 7844
+[Thu Sep 22 15:16:41.498687 2022] [mpm_winnt:notice] [pid 7844:tid 516] AH00354: Child: Starting 64 worker threads.
+[Thu Sep 22 15:18:48.707777 2022] [mpm_winnt:notice] [pid 32632:tid 452] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 22 15:18:50.709430 2022] [mpm_winnt:notice] [pid 7844:tid 516] AH00364: Child: All worker threads have exited.
+[Thu Sep 22 15:18:50.733366 2022] [mpm_winnt:notice] [pid 32632:tid 452] AH00430: Parent: Child process 7844 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 29884:tid 160] AH00455: Apache/2.4.54 (Win64) configured -- resuming normal operations
+[Thu Sep 22 15:19:20.623515 2022] [mpm_winnt:notice] [pid 29884:tid 160] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Thu Sep 22 15:19:20.623515 2022] [core:notice] [pid 29884:tid 160] AH00094: Command line: 'D:\\Project\\Tools\\audio_test_tool_master\\RtkAudioTestTool\\bin\\Debug\\Apache24\\bin\\httpd.exe -d D:/Project/Tools/audio_test_tool_master/RtkAudioTestTool/bin/Debug/Apache24'
+[Thu Sep 22 15:19:20.627505 2022] [mpm_winnt:notice] [pid 29884:tid 160] AH00418: Parent: Created child process 11036
+[Thu Sep 22 15:19:21.244856 2022] [mpm_winnt:notice] [pid 11036:tid 488] AH00354: Child: Starting 64 worker threads.
+[Thu Sep 22 15:23:11.251525 2022] [mpm_winnt:notice] [pid 29884:tid 160] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 22 15:23:13.253177 2022] [mpm_winnt:notice] [pid 11036:tid 488] AH00364: Child: All worker threads have exited.
+[Thu Sep 22 15:23:13.275119 2022] [mpm_winnt:notice] [pid 29884:tid 160] AH00430: Parent: Child process 11036 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 28288:tid 472] AH00455: Apache/2.4.54 (Win64) configured -- resuming normal operations
+[Thu Sep 22 15:23:56.014137 2022] [mpm_winnt:notice] [pid 28288:tid 472] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Thu Sep 22 15:23:56.014137 2022] [core:notice] [pid 28288:tid 472] AH00094: Command line: 'D:\\Project\\Tools\\audio_test_tool_master\\RtkAudioTestTool\\bin\\Debug\\Apache24\\bin\\httpd.exe -d D:/Project/Tools/audio_test_tool_master/RtkAudioTestTool/bin/Debug/Apache24'
+[Thu Sep 22 15:23:56.017129 2022] [mpm_winnt:notice] [pid 28288:tid 472] AH00418: Parent: Created child process 26840
+[Thu Sep 22 15:23:56.620517 2022] [mpm_winnt:notice] [pid 26840:tid 488] AH00354: Child: Starting 64 worker threads.
+[Thu Sep 22 15:24:34.633961 2022] [mpm_winnt:notice] [pid 28288:tid 472] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 22 15:24:36.636611 2022] [mpm_winnt:notice] [pid 26840:tid 488] AH00364: Child: All worker threads have exited.
+[Thu Sep 22 15:24:36.656557 2022] [mpm_winnt:notice] [pid 28288:tid 472] AH00430: Parent: Child process 26840 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 3220:tid 452] AH00455: Apache/2.4.54 (Win64) configured -- resuming normal operations
+[Thu Sep 22 15:24:48.386735 2022] [mpm_winnt:notice] [pid 3220:tid 452] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Thu Sep 22 15:24:48.386735 2022] [core:notice] [pid 3220:tid 452] AH00094: Command line: 'D:\\Project\\Tools\\audio_test_tool_master\\RtkAudioTestTool\\bin\\Debug\\Apache24\\bin\\httpd.exe -d D:/Project/Tools/audio_test_tool_master/RtkAudioTestTool/bin/Debug/Apache24'
+[Thu Sep 22 15:24:48.399701 2022] [mpm_winnt:notice] [pid 3220:tid 452] AH00418: Parent: Created child process 29036
+[Thu Sep 22 15:24:49.037995 2022] [mpm_winnt:notice] [pid 29036:tid 468] AH00354: Child: Starting 64 worker threads.
+[Thu Sep 22 15:25:25.984290 2022] [mpm_winnt:notice] [pid 3220:tid 452] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 22 15:25:27.985942 2022] [mpm_winnt:notice] [pid 29036:tid 468] AH00364: Child: All worker threads have exited.
+[Thu Sep 22 15:25:28.004891 2022] [mpm_winnt:notice] [pid 3220:tid 452] AH00430: Parent: Child process 29036 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 4448:tid 500] AH00455: Apache/2.4.54 (Win64) configured -- resuming normal operations
+[Thu Sep 22 15:27:39.508431 2022] [mpm_winnt:notice] [pid 4448:tid 500] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Thu Sep 22 15:27:39.508431 2022] [core:notice] [pid 4448:tid 500] AH00094: Command line: 'D:\\Project\\Tools\\audio_test_tool_master\\RtkAudioTestTool\\bin\\Debug\\Apache24\\bin\\httpd.exe -d D:/Project/Tools/audio_test_tool_master/RtkAudioTestTool/bin/Debug/Apache24'
+[Thu Sep 22 15:27:39.513418 2022] [mpm_winnt:notice] [pid 4448:tid 500] AH00418: Parent: Created child process 3240
+[Thu Sep 22 15:27:40.046992 2022] [mpm_winnt:notice] [pid 3240:tid 472] AH00354: Child: Starting 64 worker threads.
+[Thu Sep 22 19:49:10.541146 2022] [mpm_winnt:notice] [pid 4448:tid 500] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 22 19:49:12.543792 2022] [mpm_winnt:notice] [pid 3240:tid 472] AH00364: Child: All worker threads have exited.
+[Thu Sep 22 19:49:12.567729 2022] [mpm_winnt:notice] [pid 4448:tid 500] AH00430: Parent: Child process 3240 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 15620:tid 476] AH00455: Apache/2.4.54 (Win64) configured -- resuming normal operations
+[Thu Sep 22 19:51:02.300953 2022] [mpm_winnt:notice] [pid 15620:tid 476] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Thu Sep 22 19:51:02.300953 2022] [core:notice] [pid 15620:tid 476] AH00094: Command line: 'D:\\Project\\Tools\\audio_test_tool_master\\RtkAudioTestTool\\bin\\Debug\\Apache24\\bin\\httpd.exe -d D:/Project/Tools/audio_test_tool_master/RtkAudioTestTool/bin/Debug/Apache24'
+[Thu Sep 22 19:51:02.304943 2022] [mpm_winnt:notice] [pid 15620:tid 476] AH00418: Parent: Created child process 22692
+[Thu Sep 22 19:51:02.917306 2022] [mpm_winnt:notice] [pid 22692:tid 468] AH00354: Child: Starting 64 worker threads.
+[Mon Sep 26 19:38:10.942578 2022] [mpm_winnt:notice] [pid 15620:tid 476] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Sep 26 19:38:12.956203 2022] [mpm_winnt:notice] [pid 22692:tid 468] AH00364: Child: All worker threads have exited.
+[Mon Sep 26 19:38:13.020028 2022] [mpm_winnt:notice] [pid 15620:tid 476] AH00430: Parent: Child process 22692 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 15844:tid 152] AH00455: Apache/2.4.54 (Win64) configured -- resuming normal operations
+[Mon Sep 26 19:41:00.433762 2022] [mpm_winnt:notice] [pid 15844:tid 152] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Mon Sep 26 19:41:00.433762 2022] [core:notice] [pid 15844:tid 152] AH00094: Command line: 'D:\\Project\\Tools\\audio_test_tool_master\\RtkAudioTestTool\\bin\\Debug\\Apache24\\bin\\httpd.exe -d D:/Project/Tools/audio_test_tool_master/RtkAudioTestTool/bin/Debug/Apache24'
+[Mon Sep 26 19:41:00.441740 2022] [mpm_winnt:notice] [pid 15844:tid 152] AH00418: Parent: Created child process 31880
+[Mon Sep 26 19:41:00.871591 2022] [mpm_winnt:notice] [pid 31880:tid 472] AH00354: Child: Starting 64 worker threads.
+[Mon Sep 26 19:41:22.606936 2022] [mpm_winnt:notice] [pid 15844:tid 152] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Sep 26 19:41:52.607039 2022] [mpm_winnt:notice] [pid 15844:tid 152] AH00431: Parent: Forcing termination of child process 31880
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 13328:tid 452] AH00455: Apache/2.4.54 (Win64) configured -- resuming normal operations
+[Mon Sep 26 20:17:31.289064 2022] [mpm_winnt:notice] [pid 13328:tid 452] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Mon Sep 26 20:17:31.289064 2022] [core:notice] [pid 13328:tid 452] AH00094: Command line: 'D:\\Project\\Tools\\audio_test_tool_master\\RtkAudioTestTool\\bin\\Debug\\Apache24\\bin\\httpd.exe -d D:/Project/Tools/audio_test_tool_master/RtkAudioTestTool/bin/Debug/Apache24'
+[Mon Sep 26 20:17:31.293053 2022] [mpm_winnt:notice] [pid 13328:tid 452] AH00418: Parent: Created child process 20996
+[Mon Sep 26 20:17:31.670047 2022] [mpm_winnt:notice] [pid 20996:tid 288] AH00354: Child: Starting 64 worker threads.
+[Mon Sep 26 20:17:42.812277 2022] [mpm_winnt:notice] [pid 13328:tid 452] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Sep 26 20:17:44.816051 2022] [mpm_winnt:notice] [pid 20996:tid 288] AH00364: Child: All worker threads have exited.
+[Mon Sep 26 20:17:44.835871 2022] [mpm_winnt:notice] [pid 13328:tid 452] AH00430: Parent: Child process 20996 exited successfully.
