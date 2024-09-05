@@ -18,3 +18,4 @@ ChangeLog:
 20231115  v1.0.4  (1) Disable the way to select profiles and auto load chip profiles.
                   (2) Rename AmebaSmart to AmebaD2.
                   (3) Disable debug mode for AmebaSmart.
+20240506  v1.0.5  Bug fix: Query config timeout error for AmebaDplus.
